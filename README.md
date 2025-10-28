@@ -1,3 +1,5 @@
+![manannayak19's GitHub Banner](https://raw.githubusercontent.com/manannayak19/manannayak19/main/banner.png)
+
 <h1>a bit about myself</h1>
 
 ```yaml
