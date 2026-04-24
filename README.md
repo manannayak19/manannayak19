@@ -15,7 +15,7 @@ education: [
 - <strong>Fun Fact</strong>: You can’t overcook a mushroom. Sure, you can burn it with too high heat, but you can’t overcook it. You can stick it in a crockpot full of soup, let it simmer for three days, and it will still retain the same firm texture.
 
 <!--<div class="tenor-gif-embed" data-postid="21010459" data-share-method="host" data-aspect-ratio="1.25984" data-width="100%"><a href="https://tenor.com/view/experience-need-experience-need-job-need-experience-for-job-need-job-for-experience-gif-21010459">Experience Need Experience GIF</a>from <a href="https://tenor.com/search/experience-gifs">Experience GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
-<h1>tools and tech i have worked with</h1>
+<!-- <h1>tools and tech i have worked with</h1>
 <div align="left">
 
 <h3>tools</h3>
@@ -58,11 +58,9 @@ education: [
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="45" height="45"/>
 </p>
 
-</div>
+</div> -->
 <hr>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/yOaLSyW1M4wAAAAC/experience-need-experience.gif" />
-</div>
-<img src="https://media1.tenor.com/m/yOaLSyW1M4wAAAAC/experience-need-experience.gif" />                 
 </div>
